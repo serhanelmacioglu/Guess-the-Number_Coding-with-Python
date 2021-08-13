@@ -7,7 +7,7 @@
 <a 
  href="https://replit.com/@serhanelmaciogl/Guess-the-Number-Designed-in-Python?v=1">
   <div align="center">
- <img border="0" src="/button.gif" width="300" height="250" >
+ <img border="0" src="/button.gif" width="686" height="177" >
   </div>
 </a>
   
