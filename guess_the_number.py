@@ -17,4 +17,4 @@ while number_of_guesses < 3:
 if guess == number:
     print( 'Congratulations '+ player_name + ', ' + 'you guessed the number in ' + str(number_of_guesses) + ' tries!')
 else:
-    print('Close but no cigar, you couldn\'t guess the number, \nWell the number was ' + str(number) + '.')
+    print('Close but no cigar, you couldn\'t guess the number. \nWell the number was ' + str(number) + '.')
