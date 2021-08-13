@@ -1,4 +1,4 @@
 <p float="Top">
-  <img src="/image.jpg" width="2000" 
+  <img src="/image.png" width="2000" 
 </p>
 <a href="https://replit.com/@serhanelmaciogl/Guess-the-Number-Designed-in-Python?v=1"> Let's play...</a>
