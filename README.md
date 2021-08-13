@@ -5,5 +5,7 @@
 <a 
 href="https://replit.com/@serhanelmaciogl/Guess-the-Number-Designed-in-Python?v=1">
 
-<img border="0" src="/play_button.png">
+<div align="center">
+<img border="0" src="/play_button.png" width="300" height="250" >
 </a>
+  </div>
