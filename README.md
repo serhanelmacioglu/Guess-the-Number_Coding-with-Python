@@ -1,5 +1,5 @@
 <a 
- href="https://replit.com/@serhanelmaciogl/Guess-the-Number-Designed-in-Python?v=1">
+ href="https://replit.com/@serhanelmacioglu/Guess-the-Number-Coding-with-Python?v=1">
    <div align="center">
     <p>
     <img src="/image.png" width="795" height="304"
